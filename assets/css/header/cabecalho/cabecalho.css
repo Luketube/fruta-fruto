@@ -6,3 +6,9 @@
     padding-left: 2rem;
     padding-right: 2rem;
 }
+
+@media screen and (max-width: 768px) {
+    .logo{
+        display: none;
+    }
+}

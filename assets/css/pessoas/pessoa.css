@@ -3,3 +3,9 @@
     flex-direction: column;
     padding: 0 2rem;
 }
+
+@media screen and (max-width: 768px){
+    .pessoa{
+        margin-bottom: 2rem;
+    }
+}
