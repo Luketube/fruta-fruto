@@ -1,0 +1,8 @@
+footer{
+    background-color: #C4C4C4;
+    padding: 2rem 1rem;
+    text-transform: lowercase;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: flex-end;
+}
